@@ -15,8 +15,5 @@
 ![occupationInfo](https://img.shields.io/static/v1?label=&message=student&color=555&style=flat-square)
 
 ![languagesLabel](https://img.shields.io/static/v1?label=&message=languages%3A&color=111&style=flat-square)
-![languages1](https://img.shields.io/badge/-lua%20and%20c%2B%2B-555)
+![languages1](https://img.shields.io/badge/-lua%20and%20py%2B%2B-555)
 
-![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
-![contact1](https://img.shields.io/static/v1?logo=github&label=&message=abbadezaum&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=stn%#0666%230025&color=555&logoColor=AAA&style=flat-square)
