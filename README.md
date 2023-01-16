@@ -19,4 +19,4 @@
 
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=abbadezaum&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=stn #0666%230025&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=stn%#0666%230025&color=555&logoColor=AAA&style=flat-square)
