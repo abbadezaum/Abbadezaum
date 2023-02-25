@@ -15,5 +15,5 @@
 ![occupationInfo](https://img.shields.io/static/v1?label=&message=student&color=555&style=flat-square)
 
 ![languagesLabel](https://img.shields.io/static/v1?label=&message=languages%3A&color=111&style=flat-square)
-![languages1](https://img.shields.io/badge/-lua%20and%20py-555)
+![languages1](https://img.shields.io/badge/-pt br%20and%20eng-555)
 
