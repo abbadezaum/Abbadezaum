@@ -9,7 +9,7 @@
 ![nameInfo](https://img.shields.io/badge/-Thiago%20Abbade.-555)
 
 ![aplLabel](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![aplInfo](https://img.shields.io/badge/-17%2C%20male%2C%20Brazil-555)
+![aplInfo](https://img.shields.io/badge/-18yo%2C%20)
 
 ![occupationLabel](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
 ![occupationInfo](https://img.shields.io/static/v1?label=&message=student&color=555&style=flat-square)
